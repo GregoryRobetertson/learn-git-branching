@@ -34,6 +34,6 @@
 
 ![image](https://github.com/GregoryRobetertson/learn-git-branching/assets/147750592/59c233d1-259f-4dac-bcd4-d1b86b459ab4)
 
-This help me understand git stash and the resloving conflicts. To complete the steps I , create a new organization, then I Transfered my selected repository move it to the organization. 
+This help me understand git stash and the resloving conflicts. To complete the steps I created a new organization, then I transfered my selected repository and put it in the organization. 
 
 
