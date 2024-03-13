@@ -8,9 +8,11 @@
 ![image](https://github.com/GregoryRobetertson/learn-git-branching/assets/147750592/79a5eeeb-0ac0-4963-b9a2-f1c0e3eb675f)
 
 ### Day 3
+![image](https://github.com/GregoryRobetertson/learn-git-branching/assets/147750592/06398ca2-c45a-457c-80ae-fbc2bafed1bf)
 
 
-### 4
+
+### Day 4
 ## Simulate Main Branch Updates (Local and Remote):
 
 
